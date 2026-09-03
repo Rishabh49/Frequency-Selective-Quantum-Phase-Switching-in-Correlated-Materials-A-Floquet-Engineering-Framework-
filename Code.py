@@ -409,4 +409,3 @@ print("="*60)
 print("\n📁 Files saved in 'results/' folder:")
 for i in range(1,9):
     print(f"   Figure{i}.png  (Paper Figure {i})")
-print("\n👉 Upload these to Overleaf and include them in your paper.")
